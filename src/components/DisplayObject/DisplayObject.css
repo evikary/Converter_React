@@ -1,0 +1,25 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.obj {
+  margin-top: 50px;
+}
+
+h4 {
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.btn {
+  width: 100px;
+  background-color: cornflowerblue;
+  color: black;
+  border-radius: 16px;
+  margin-top: 45px;
+  padding: 6px;
+  font-size: 14px;
+}

@@ -1,0 +1,29 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.root_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  margin-top: 35px;
+  font-size: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(38, 74, 153);
+}
+
+.btn {
+  margin-top: 15px;
+  background-color: burlywood;
+  color: rgb(84, 89, 90);
+  font-size: 16px;
+  padding: 5px;
+  width: 100px;
+  border-radius: 16px;
+}

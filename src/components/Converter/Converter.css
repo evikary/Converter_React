@@ -1,0 +1,18 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 300px;
+}
+
+input {
+  width: 200px;
+  padding: 5px;
+}
+
+.rub {
+  margin-bottom: 20px;
+}

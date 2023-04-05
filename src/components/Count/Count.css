@@ -1,0 +1,19 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.count {
+  margin-top: 50px;
+}
+
+/* .btn {
+  width: 30px;
+  background-color: antiquewhite;
+  color: black;
+  padding: 3px;
+  border-radius: 6px;
+  margin: 5px;
+} */
